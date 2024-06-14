@@ -1,5 +1,13 @@
 ## Olá, eu sou o Mayko Assis 👨‍💻
 
+About me:
+
+   - Telecomunicações: 12+ anos de experiência em gestão de equipes, implantação de redes e otimização de infraestruturas.
+   - Experiência abrangente em tecnologias móveis, fibra óptica e sistemas de transmissão.
+   - Foco em soluções inovadoras e atualização constante para atender aos desafios da programação.
+     
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/in/assismayko)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:mayko.assis@gmail.com)
