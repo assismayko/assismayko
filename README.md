@@ -21,7 +21,7 @@ About me:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt=python src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt=javascript src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=javascript&logoColor=white">
+    <img align="center" alt=javascript src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
     <img align="center" alt=jupyter src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
     <img align="center" alt=amazonaws src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">    
     <img align="center" alt=microsoft src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
