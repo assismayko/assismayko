@@ -2,7 +2,7 @@
 
 About me:
 
-   - Telecomunicações: 12+ anos de experiência em gestão de equipes, implantação de redes e otimização de infraestruturas.
+   - Telecomunicações: 13+ anos de experiência em gestão de equipes, implantação de redes e otimização de infraestruturas.
    - Experiência abrangente em tecnologias móveis, fibra óptica e sistemas de transmissão.
    - Foco em soluções inovadoras e atualização constante para atender aos desafios da programação.
      
